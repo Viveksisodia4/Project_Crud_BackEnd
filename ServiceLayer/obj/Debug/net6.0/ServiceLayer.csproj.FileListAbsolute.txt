@@ -1,0 +1,17 @@
+C:\.net\finalProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+C:\.net\finalProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+C:\.net\finalProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+C:\.net\finalProject\ServiceLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\.net\finalProject\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\.net\finalProject\ServiceLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\.net\finalProject\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\.net\finalProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\.net\finalProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\finalProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\.net\finalProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\.net\finalProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\.net\finalProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+C:\.net\finalProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+C:\.net\finalProject\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+C:\.net\finalProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+C:\.net\finalProject\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
